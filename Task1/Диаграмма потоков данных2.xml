@@ -258,7 +258,7 @@
           </mxCell>
         </object>
         <mxCell id="SRI__7kDGK9wWwr3psb_-1" value="Приём пациента" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" parent="1" vertex="1">
-          <mxGeometry x="-1280" y="-450" width="320" height="110" as="geometry" />
+          <mxGeometry x="-780" y="-450" width="320" height="110" as="geometry" />
         </mxCell>
         <mxCell id="SRI__7kDGK9wWwr3psb_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SRI__7kDGK9wWwr3psb_-2" target="SRI__7kDGK9wWwr3psb_-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
