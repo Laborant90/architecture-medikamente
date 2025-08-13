@@ -423,6 +423,9 @@
         <mxCell id="ZXfb2qlvEaJz0GhT8Hj_-101" value="Бухгалтерские операции с МТЦ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="-340" y="80" width="320" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="ZXfb2qlvEaJz0GhT8Hj_-103" value="Учёт МТЦ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="-355" y="640" width="320" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
