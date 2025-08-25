@@ -10,7 +10,7 @@
         <mxCell id="5" value="Технологии" style="whiteSpace=wrap;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="36.458333333333236" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="Риск утечки и повреждения данных" style="whiteSpace=wrap;strokeWidth=3" parent="1" vertex="1">
+        <mxCell id="8" value="Риск отсутствия данных в новой системе" style="whiteSpace=wrap;strokeWidth=3" parent="1" vertex="1">
           <mxGeometry x="484.58000000000004" y="248.89" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9" value="" style="edgeStyle=none;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="8" edge="1">
@@ -100,14 +100,11 @@
         <mxCell id="114" value="Техническая поддержка состоит из &#xa;одного системного администратора" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
           <mxGeometry x="-51.769999999999996" y="200" width="166.46" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="118" value="Нет средств защиты данных" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
-          <mxGeometry x="46.45833333333321" y="280.0000000000002" width="30" height="19.999999999999886" as="geometry" />
+        <mxCell id="118" value="Нет средства загрузки файлов в новую систему " style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
+          <mxGeometry x="29.998333333333207" y="280.0000000000002" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
-        <mxCell id="119" value="Нет контроля доступа к данным" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
-          <mxGeometry x="49.99833333333316" y="325.4199999999998" width="30" height="19.999999999999886" as="geometry" />
-        </mxCell>
-        <mxCell id="120" value="1С в файловом режиме" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
-          <mxGeometry x="16.458333333333293" y="365.42000000000024" width="30" height="19.999999999999886" as="geometry" />
+        <mxCell id="119" value="Нет средства миграции журналов приёма " style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
+          <mxGeometry x="19.998333333333157" y="320.9699999999998" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
         <mxCell id="143" value="Окружение" style="whiteSpace=wrap;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="260" y="109.99999999999994" width="120" height="60" as="geometry" />
@@ -202,14 +199,11 @@
         <mxCell id="176" value="Файловый сервер &#xa;один на всю систему" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
           <mxGeometry x="260.00000000000006" y="199.99999999999997" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
-        <mxCell id="179" value="Остутствует аудит доступа к данным " style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
-          <mxGeometry x="280" y="288.33000000000015" width="30" height="19.999999999999886" as="geometry" />
+        <mxCell id="180" value="Нужно проводить обучение&#xa; персонала" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
+          <mxGeometry x="259.99999999999994" y="288.88999999999976" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
-        <mxCell id="180" value="Не определены сроки хранения данных" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
-          <mxGeometry x="259.99999999999994" y="320.9699999999998" width="30" height="19.999999999999886" as="geometry" />
-        </mxCell>
-        <mxCell id="181" value="Сбор избыточной информации" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
-          <mxGeometry x="250.0000000000001" y="360.97000000000014" width="30" height="19.999999999999886" as="geometry" />
+        <mxCell id="181" value="Нужно зарегистрировать &#xa;пользователей в новой системе" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
+          <mxGeometry x="250.0000000000001" y="350.0000000000001" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
         <mxCell id="_Gn4dyEhIWTSDjxLxFIo-204" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -220,8 +214,11 @@
         <mxCell id="_Gn4dyEhIWTSDjxLxFIo-205" value="Нет команды разработки" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" vertex="1" parent="1">
           <mxGeometry x="-30" y="240" width="166.46" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_Gn4dyEhIWTSDjxLxFIo-207" value="Файловый сервер используется &#xa;не по назначению" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" vertex="1" parent="1">
-          <mxGeometry x="280" y="240.97" width="30" height="19.999999999999886" as="geometry" />
+        <mxCell id="_Gn4dyEhIWTSDjxLxFIo-207" value="Большой объём данных в виде файлов" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="30" height="19.999999999999886" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gn4dyEhIWTSDjxLxFIo-209" value="Нужно зарегистрировать &#xa;персонал в новой системе" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" vertex="1" parent="1">
+          <mxGeometry x="280" y="320.97" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
