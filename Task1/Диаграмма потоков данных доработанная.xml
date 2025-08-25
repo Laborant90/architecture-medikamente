@@ -360,7 +360,7 @@
           <mxGeometry x="-320" y="-910" width="320" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ZXfb2qlvEaJz0GhT8Hj_-99" value="Приём платежей" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" parent="1" vertex="1">
-          <mxGeometry x="-350" y="-400" width="320" height="110" as="geometry" />
+          <mxGeometry x="-340" y="-420" width="320" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ZXfb2qlvEaJz0GhT8Hj_-101" value="Бухгалтерские операции с МТЦ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="-340" y="80" width="320" height="110" as="geometry" />
@@ -475,6 +475,63 @@
         </mxCell>
         <mxCell id="VPAJnHNZvEZijf0jN5-h-49" value="Пользователь с ролью Warehoues keeper имеет право просматривать только финансовую информацию в рамках учёта&amp;nbsp;МТЦ" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.2;size=60;position=0.16;" vertex="1" parent="1">
           <mxGeometry x="-1380" y="620" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VPAJnHNZvEZijf0jN5-h-50" value="Отдельный файловый сервер для хранения&lt;br&gt;служебной информации и персональных данных&lt;br&gt;Данные хранятся в шифрованном виде&lt;div&gt;Есть поддержка ролевой модели доступа к файлам&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-2620" width="270" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VPAJnHNZvEZijf0jN5-h-52" value="Отдельный файловый сервер для хранениям медицинской информации&lt;br&gt;Данные хранятся в шифрованном виде&lt;div&gt;Есть поддержка ролевой модели доступа к файлам&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-2285" width="270" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VPAJnHNZvEZijf0jN5-h-54" value="Отдельный файловый сервер для хранения&lt;br&gt;служебной информации и персональных данных&lt;br&gt;Данные хранятся в шифрованном виде&lt;div&gt;Есть поддержка ролевой модели доступа к файлам&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-1920" width="270" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VPAJnHNZvEZijf0jN5-h-55" value="Отдельный файловый сервер для хранения&lt;br&gt;служебной информации и персональных данных&lt;br&gt;Данные хранятся в шифрованном виде&lt;div&gt;Есть поддержка ролевой модели доступа к файлам&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="175" y="-1510" width="270" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VPAJnHNZvEZijf0jN5-h-56" value="Отдельный файловый сервер для хранения&lt;br&gt;финансовой информации&lt;br&gt;Данные хранятся в шифрованном виде&lt;div&gt;Есть поддержка ролевой модели доступа к файлам&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-845" width="270" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VPAJnHNZvEZijf0jN5-h-57" value="1С Развёрнут в серверном режиме на выделенном сервере" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-845" width="270" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VPAJnHNZvEZijf0jN5-h-58" value="1С Развёрнут в серверном режиме на выделенном сервере" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-935" y="-345" width="270" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VPAJnHNZvEZijf0jN5-h-59" value="Отдельный файловый сервер для хранения&lt;br&gt;финансовой информации&lt;br&gt;Данные хранятся в шифрованном виде&lt;div&gt;Есть поддержка ролевой модели доступа к файлам&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-553" y="-345" width="270" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VPAJnHNZvEZijf0jN5-h-60" value="1С Развёрнут в серверном режиме на выделенном сервере" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-523" y="145" width="270" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VPAJnHNZvEZijf0jN5-h-61" value="1С Развёрнут в серверном режиме на выделенном сервере" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-943" y="145" width="270" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VPAJnHNZvEZijf0jN5-h-62" value="Отдельный файловый сервер для хранения&lt;br&gt;финансовой информации&lt;br&gt;Данные хранятся в шифрованном виде&lt;div&gt;Есть поддержка ролевой модели доступа к файлам&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="150" width="270" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VPAJnHNZvEZijf0jN5-h-63" value="1С Развёрнут в серверном режиме на выделенном сервере" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-905" y="645" width="270" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VPAJnHNZvEZijf0jN5-h-64" value="Отдельный файловый сервер для хранения&lt;br&gt;финансовой информации&lt;br&gt;Данные хранятся в шифрованном виде&lt;div&gt;Есть поддержка ролевой модели доступа к файлам&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-523" y="645" width="270" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VPAJnHNZvEZijf0jN5-h-65" value="Медицинский специалист должен иметь доступ только тем папкам пациентов, которые были у него на приёме (права выдаются при записи)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="-2285" width="270" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VPAJnHNZvEZijf0jN5-h-66" value="Медицинский специалист должен иметь доступ только к своему журналу записей на приём" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="-2620" width="270" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VPAJnHNZvEZijf0jN5-h-67" value="Администратор имеет права на создание и редактирование журналов (без удаления)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="-1875" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VPAJnHNZvEZijf0jN5-h-68" value="Права на создание папки, права на выдачу доступа для медицинского персонала&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="-1249" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VPAJnHNZvEZijf0jN5-h-69" value="Права на создание и редактирование файла" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-898" y="-1465" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VPAJnHNZvEZijf0jN5-h-70" value="Права на создание папок" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-503.5" y="-1460" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
